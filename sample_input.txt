@@ -1,0 +1,5 @@
+1. Xin chào mọi người, đây là đoạn văn đầu tiên để kiểm tra tính năng tạo giọng nói hàng loạt.
+
+2. Đoạn văn thứ hai được đặt cách đoạn đầu bằng một dòng trống. Số hai ở đầu sẽ không được đọc.
+
+3. Hello everyone, this third paragraph demonstrates English generation with the same cloned voice.

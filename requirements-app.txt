@@ -1,0 +1,9 @@
+PySide6>=6.8
+transformers>=5.5.0
+accelerate>=1.6
+huggingface-hub>=0.30
+safetensors>=0.5
+soundfile>=0.13
+numpy>=1.26
+pydub>=0.25
+sentencepiece>=0.2
